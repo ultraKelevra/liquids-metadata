@@ -1,0 +1,11 @@
+{
+    "name": "Liquid Asset",
+    "decimals": 18,
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Liquid"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/ultraKelevra/liquids-metadata/main/images/0.png"
+}
